@@ -4,10 +4,10 @@ function happyHolidays()  {
 function happyHolidaysTo(name) { 
   return "Happy holidays, you!";
 }
-function happyHolidayToSarah(Christmas, Sarah) {
-  return "Happy Christmas, Sarah!";
+function happyHolidayToSarah(holiday, name) {
+  return "Happy holiday, you!";
 }
-function holidayCountdown(string) { 
+function holidayCountdown() { 
   return "It's 20 days until Mother's Day!";
   
 }
