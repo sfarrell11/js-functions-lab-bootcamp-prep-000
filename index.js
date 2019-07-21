@@ -2,7 +2,7 @@ function happyHolidays()  {
   return "Happy holidays!";
 }
 function happyHolidaysTo(name) { 
-  return "Happy Holidays, Sarah!";
+  return "Happy Holidays, name!";
 }
 function happyHolidayToSarah(Christmas, Sarah) {
   return "Happy Christmas, Sarah!";
