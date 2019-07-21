@@ -1,15 +1,15 @@
 function happyHolidays()  {
   return "Happy holidays!";
 }
-function happyHolidaysToSarah(string) { 
-  return string.to ("Happy Holidays, ${Sarah!") 
+function happyHolidaysToSarah() { 
+  return "Happy Holidays, ${Sarah!";
 }
-function happyHolidayToSarah(string) {
-  return string.to ("Happy ${Christmas}, ${Sarah}!")
+function happyHolidayToSarah() {
+  return "Happy ${Christmas}, ${Sarah}!";
 }
 function holidayCountdown(string) { 
-  return string.to ("It's ${11 days} until $ {Christmas!")
-  }
+  return "It's ${11 days} until $ {Christmas!";
+  
 }
  
  
