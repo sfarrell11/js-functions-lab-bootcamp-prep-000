@@ -1,7 +1,4 @@
-function Happyholidays(string)  {
-  if (string === "Happy holidays!") {
-  return string.to  ("Happy holidays!")
-}
+
 function happyHolidaysToSarah(string) { 
   return string.to ("Happy Holidays, ${Sarah!") 
 }
